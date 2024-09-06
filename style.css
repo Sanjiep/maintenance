@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@800&family=Montserrat:wght@300;400;500;600;700&family=Poppins:wght@400;700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+}
+
+h1 {
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 160px;
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: 11px;
+  opacity: 4%;
+  padding-top: 120px;
+}
+
+img {
+  z-index: 10;
+  margin: auto;
+  display: block;
+  bottom: 242px;
+  position: relative;
+  width: 7in;
+  /* right: 5px; */
+}
+
+h2 {
+  width: auto;
+  color: #1e1e1e;
+  text-align: center;
+  font-family: Poppins;
+  position: relative;
+  bottom: 220px;
+}
+
+.const {
+  font-size: 45px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-style: normal;
+  line-height: normal;
+}
+.back {
+  font-size: normal;
+  font-size: 25px;
+  text-transform: capitalize;
+  font-weight: 400;
+}
